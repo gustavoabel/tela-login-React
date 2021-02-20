@@ -1,21 +1,14 @@
-## React Playground – Sign Up Screen 🔑
+## React Playground - Tela de inscrição 🔑
 
-Hey all! 👋
+Olá a todos! 👋
 
-I wanted to share with you a simple Sign Up Screen created as a part of "React Playground" - my endeavour to learn React.
+Eu queria compartilhar com vocês uma tela de inscrição simples criada como parte do "React Playground" - meu esforço para aprender React.
 
-Feel free to check it out in [Figma Community](https://www.figma.com/community/file/871047474416090189/React-Playground-%E2%80%93-Sign-Up-Screen-%F0%9F%94%91) where you can find the designs along with the design system. 
+## Scripts Disponíveis
 
-Huge thanks to Adhithya for creating a [fantastic React sign-up app tutorial](https://www.adhithyakumar.com/blog-posts/react-for-designers-creating-a-simple-login-screen) based on which I could create this project! 
-
-![alt text](https://i.imgur.com/LEntIvu.png)
-
-
-## Available Scripts
-
-In the project directory, you can run:
+No diretório do projeto, você pode executar:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o aplicativo no modo de desenvolvedor.<br />
+ [http://localhost:3000](http://localhost:3000) para vê-lo no navegador.
