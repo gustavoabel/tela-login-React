@@ -1,4 +1,4 @@
-## React Playground - Tela de inscrição 🔑
+## React - Tela de inscrição 🔑
 
 Olá a todos! 👋
 
