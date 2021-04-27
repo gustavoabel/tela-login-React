@@ -1,9 +1,5 @@
 ## React - Tela de login 🔑
 
-Olá a todos! 👋
-
-Eu queria compartilhar com vocês uma tela de login simples, este é meu esforço para aprender React.
-
 ![](assets/react.png)  
 
 ## Scripts Disponíveis
